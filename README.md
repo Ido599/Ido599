@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Ido
+<a href="https://linkedin.com/https://www.linkedin.com/in/ido-ozer-60892134b/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Ido599/Ido599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
+Graduate of an Cyber Security Offense and Defense Practitioner with hands-on experience has fueled my passion and I'm now eager to apply my skills in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project                         |
+|-----------------------------------------------|--------------------------------------------|
+|Threat Detection & SIEM Engineering            | Azure Sentinel SIEM Honeypot               |
+| Security Automation with Shuffle SOAR         | Cloud-Based Automated SOC Lab              |
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-LetsDefend_SOC_Analyst-1A1A1A?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python_Institute_PCEP-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+## Projects
+- Cloud-Based Automated SOC Lab  
+- Azure Sentinel SIEM Honeypot
