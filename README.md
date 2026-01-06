@@ -10,7 +10,7 @@ Graduate of an Cyber Security Offense and Defense Practitioner with hands-on exp
 
 | Skill                                         | Associated Project                         |
 |-----------------------------------------------|--------------------------------------------|
-|Threat Detection & SIEM Engineering            | a href="https://github.com/Ido599/Azure-Sentinel-SIEM-Honeypot/tree/main">Azure Sentinel SIEM Honeypot</a>               |
+|Threat Detection & SIEM Engineering            | <a href="https://github.com/Ido599/Azure-Sentinel-SIEM-Honeypot/tree/main">Azure Sentinel SIEM Honeypot</a>             |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Ido599/Cloud-Based-Automated-SOC-Lab/tree/main">Cloud Based Automated SOC Lab</a>             |
 
 ## Certifications
