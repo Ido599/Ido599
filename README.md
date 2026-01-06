@@ -21,5 +21,6 @@ Graduate of an Cyber Security Offense and Defense Practitioner with hands-on exp
 </div>
 
 ## Projects
-- Cloud-Based Automated SOC Lab  
+- <a href="https://github.com/Ido599/Cloud-Based-Automated-SOC-Lab/tree/main">Cloud Based Automated SOC Lab</a>
+ 
 - Azure Sentinel SIEM Honeypot
